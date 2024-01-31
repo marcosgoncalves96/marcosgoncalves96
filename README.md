@@ -1,4 +1,4 @@
-### Oi, meu nome é Marcos 
+### Olá, meu nome é Marcos 
 Estou cursando MBA em Data Science e Analytics
 
 Atuando na área de Logística e Suprimentos e me desenvolvendo na área de Dados
