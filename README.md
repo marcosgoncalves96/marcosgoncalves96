@@ -1,16 +1,18 @@
-### Hi there 👋
+### Oi, meu nome é Marcos 
+Estou cursando MBA em Data Science e Analytics
 
-<!--
-**marcosgoncalves96/marcosgoncalves96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atuando na área de Logística e Suprimentos e me desenvolvendo na área de Dados
+  
+#### Interesses: ####
 
-Here are some ideas to get you started:
+<div style="display: inline">
+  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />      
+  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original-wordmark.svg" />
+          
+          
+          
+</div>
+          
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
