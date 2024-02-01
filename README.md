@@ -1,4 +1,4 @@
-### Ooi, meu nome é Marcos :)
+### Oi, meu nome é Marcos!
 
 Sou um entusiasta da área de tecnologia, mais especificamente o mundo dos dados.
 
