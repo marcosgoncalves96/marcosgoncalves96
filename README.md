@@ -1,10 +1,9 @@
 ### Oi, meu nome é Marcos!
 
-Sou um entusiasta da área de tecnologia, mais especificamente o mundo dos dados.
+Estou atuando como Analytics Engineer após migração de carreira de logistica para área de dados.
 
-Estou cursando MBA em Data Science e Analytics e sou graduado em Gestão Empresarial.
+Tenho MBA em Data Science e Analytics e sou graduado em Gestão Empresarial.
 
-Tenho experiencia na área de Logística e Suprimentos e estou me desenvolvendo como Analista de Dados.
   
 #### Interesses: ####
 
